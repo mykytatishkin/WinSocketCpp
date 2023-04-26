@@ -1,0 +1,3 @@
+﻿  Source.cpp
+\\Mac\Home\Downloads\WinSocketHelloWorld_P05\Client\Source.cpp(28,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Client.vcxproj -> \\Mac\Home\Downloads\WinSocketHelloWorld_P05\arm64\Debug\Client.exe
